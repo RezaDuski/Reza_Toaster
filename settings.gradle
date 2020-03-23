@@ -1,0 +1,2 @@
+include ':app', ':first_reza_library'
+rootProject.name='androidLib'
